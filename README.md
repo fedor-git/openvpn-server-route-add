@@ -2,8 +2,9 @@
 this simple script for create route for clients
 
 - this example has client1
-- usage:
+- usage
 1) set workdir with your ccd (Client Config Dir):
+2) Run script:
 ```workdir='./ccd'```
 ```
 ./add_route.sh client1
